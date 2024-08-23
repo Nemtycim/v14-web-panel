@@ -1,2 +1,13 @@
-# v14-web-panel
-Discord.js V14 sürümü ile sunucularınızı web site üzerinden yönetme paneli.
+# KRAKEN SHOP V14 WEB PANEL
+Bu repoda yapmakta olduğum web panelimi bitirdiğimde paylaşacağım. Bu projeyi yapma amacım, kendimi back-end ve front-end geliştirme alanlarında daha da ilerletmek, aynı zamanda tam yığın bir geliştirici olarak yeteneklerimi pekiştirmek.
+
+> [!WARNING]  
+> Bu Repo **GNU GENERAL PUBLIC LICENSE (GPL-3.0)** İle Lisanslanmıştır. Lütfen Paylaşılınca Çalmayınız.
+
+# 📸 Görseller 
+
+Ana Sayfası
+![image](https://github.com/user-attachments/assets/1157f873-e0d2-4b73-82a5-ae8e5598e3f9)
+
+Destek Yardım
+![image](https://github.com/user-attachments/assets/02722f18-ac05-408c-b475-3cf2e2b03cf1)
