@@ -13,5 +13,4 @@ Destek Yardım
 ![image](https://github.com/user-attachments/assets/02722f18-ac05-408c-b475-3cf2e2b03cf1)
 
 Profil Sayfası
-![image](https://github.com/user-attachments/assets/d11ce633-c317-4e0c-9489-2a95f51720c1)
 ![image](https://github.com/user-attachments/assets/54a9239d-8a48-41fa-8d73-19d259ec682a)
