@@ -14,3 +14,7 @@ Destek Yardım
 
 Profil Sayfası
 ![image](https://github.com/user-attachments/assets/54a9239d-8a48-41fa-8d73-19d259ec682a)
+
+2D Doğrulama Sistemi (MAIL ICIN)
+![image](https://github.com/user-attachments/assets/94186c28-4f5f-4194-8318-7b23a24cf2aa)
+![image](https://github.com/user-attachments/assets/297bc6cd-5967-4a54-8c90-3d231dab602a)
