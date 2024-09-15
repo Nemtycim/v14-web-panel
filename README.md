@@ -18,3 +18,6 @@ Profil Sayfası
 2D Doğrulama Sistemi (MAIL ICIN)
 ![image](https://github.com/user-attachments/assets/94186c28-4f5f-4194-8318-7b23a24cf2aa)
 ![image](https://github.com/user-attachments/assets/297bc6cd-5967-4a54-8c90-3d231dab602a)
+
+Bot Log Sistemi
+![image](https://github.com/user-attachments/assets/a515c966-6829-41aa-bd79-194221aa709b)
